@@ -8,6 +8,8 @@ public class Proj2SpringbootPullrequsetApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Proj2SpringbootPullrequsetApplication.class, args);
+		int a=20;
+		int b=50;
 	}
 
 }
